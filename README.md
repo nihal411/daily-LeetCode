@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nihal411/daily-LeetCode/tree/master/0051-n-queens) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nihal411/daily-LeetCode/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
