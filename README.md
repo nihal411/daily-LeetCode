@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nihal411/daily-LeetCode/tree/master/0051-n-queens) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1288-remove-covered-intervals](https://github.com/nihal411/daily-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,8 +40,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nihal411/daily-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nihal411/daily-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
