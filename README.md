@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nihal411/daily-LeetCode/tree/master/0085-maximal-rectangle) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/nihal411/daily-LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
