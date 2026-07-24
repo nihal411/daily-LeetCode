@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nihal411/daily-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/nihal411/daily-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/nihal411/daily-LeetCode/tree/master/0198-house-robber) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nihal411/daily-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nihal411/daily-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -54,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nihal411/daily-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/nihal411/daily-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
 |  |
