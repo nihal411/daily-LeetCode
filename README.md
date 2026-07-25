@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nihal411/daily-LeetCode/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/nihal411/daily-LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/nihal411/daily-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/nihal411/daily-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/nihal411/daily-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0213-house-robber-ii) |
 | [0790-domino-and-tromino-tiling](https://github.com/nihal411/daily-LeetCode/tree/master/0790-domino-and-tromino-tiling) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nihal411/daily-LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
