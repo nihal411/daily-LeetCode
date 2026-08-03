@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/nihal411/daily-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nihal411/daily-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nihal411/daily-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/nihal411/daily-LeetCode/tree/master/0397-integer-replacement) |
 | [0790-domino-and-tromino-tiling](https://github.com/nihal411/daily-LeetCode/tree/master/0790-domino-and-tromino-tiling) |
+| [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nihal411/daily-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -135,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nihal411/daily-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
