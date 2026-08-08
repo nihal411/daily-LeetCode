@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/nihal411/daily-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nihal411/daily-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nihal411/daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/nihal411/daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nihal411/daily-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nihal411/daily-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1260-shift-2d-grid](https://github.com/nihal411/daily-LeetCode/tree/master/1260-shift-2d-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nihal411/daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nihal411/daily-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nihal411/daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Minimax
 |  |
 | ------- |
