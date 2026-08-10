@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/nihal411/daily-LeetCode/tree/master/0397-integer-replacement) |
 | [0790-domino-and-tromino-tiling](https://github.com/nihal411/daily-LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nihal411/daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nihal411/daily-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -152,14 +154,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nihal411/daily-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
