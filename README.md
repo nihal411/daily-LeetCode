@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nihal411/daily-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nihal411/daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nihal411/daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/nihal411/daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/nihal411/daily-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nihal411/daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nihal411/daily-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/nihal411/daily-LeetCode/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nihal411/daily-LeetCode/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nihal411/daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
