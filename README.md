@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/nihal411/daily-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/nihal411/daily-LeetCode/tree/master/1406-stone-game-iii) |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nihal411/daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
