@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nihal411/daily-LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/nihal411/daily-LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nihal411/daily-LeetCode/tree/master/0002-add-two-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/nihal411/daily-LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
