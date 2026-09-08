@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/nihal411/daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nihal411/daily-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nihal411/daily-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/nihal411/daily-LeetCode/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
 | ------- |
