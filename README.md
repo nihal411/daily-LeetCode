@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nihal411/daily-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/nihal411/daily-LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/nihal411/daily-LeetCode/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/nihal411/daily-LeetCode/tree/master/0085-maximal-rectangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nihal411/daily-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/nihal411/daily-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/nihal411/daily-LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/nihal411/daily-LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nihal411/daily-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
